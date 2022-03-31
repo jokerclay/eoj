@@ -1,0 +1,1 @@
+cat testcase.txt | ./soultion
